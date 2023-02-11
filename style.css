@@ -1,0 +1,105 @@
+h1
+{
+
+    position: absolute;
+    width: 1165px;
+    height: 59px;
+    left: 137px;
+    top: 165px;
+    
+    font-family: 'Hahmlet';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 55px;
+    line-height: 80px;
+    text-align: center;
+    
+    color: #C52F2F;
+}
+
+h2
+{
+
+position: absolute;
+width: 644px;
+height: 51px;
+left: 379px;
+top: 349px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #FF0000;
+
+}
+div.entry
+{
+    position: absolute;
+    width: 50%;
+    height: 66px;
+    left: 284px;
+    top: 481px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #0029FF;
+    margin-left: 30px;
+    text-align: center;
+    margin: 50px;
+
+}
+form
+{
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+}
+input
+{
+    padding:  1%;
+    font-size: large;
+}
+div.pass
+{
+    position: absolute;
+    width:50%;
+    height: 66px;
+    left: 20%;
+    top: 609px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #0029FF;
+
+}
+.button
+{
+    position: absolute;
+    width: 267px;
+    height: 50;
+    right: 250px;
+    top: 90%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #0029FF;
+}
